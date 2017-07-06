@@ -1,0 +1,231 @@
+
+Profile Report
+Profile [168, 159, 327, 105, 55, 0, 0, 1]
+
+
+SUNY Buffalo
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+University of Iowa
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+George Mason University
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+Oregon State University
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+Syracuse University
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['reject']
+
+
+Case Western University
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['reject']
+
+
+Columbia University
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+University of Delaware
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+University of Maryland Baltimore County
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['admit']
+
+
+University of Nebraska Lincoln
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['admit']
+
+
+University of Texas at Dallas
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+Washington State University
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+Brandeis Uinversity
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+Clemson University
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+George Washington University
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of Connecticut
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of Kansas
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of New Mexico
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+New York University
+Svm prediction ['reject']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+Bringham Young University
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+Drexel University
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+Kansas State University
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+New Jersey Institute of Technology
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of Central Florida 
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of Georgia
+Svm prediction ['admit']
+Decision Tree Prediction ['reject']
+KNN Prediction ['admit']
+
+
+University of Kentucky
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['admit']
+
+
+University of Texas at Arlington
+Svm prediction ['admit']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of Florida
+Svm prediction ['admit']
+Decision Tree Prediction ['reject']
+KNN Prediction ['admit']
+
+
+Indiana University Bloomington
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+Rensselaer Polytechnic Institute
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+University of Pittsburgh
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+University of Rochester
+Svm prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+University of California -Santa Cruz
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+Vanderbilt University
+Svm prediction ['reject']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+Northeastern University
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of Illonois Chicago
+Svm prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of Notre Dame
+Svm prediction ['reject']
+Decision Tree Prediction ['admit']
+KNN Prediction ['reject']
+
+
+Iowa State
+Svm prediction ['reject']
+Decision Tree Prediction ['admit']
+KNN Prediction ['reject']

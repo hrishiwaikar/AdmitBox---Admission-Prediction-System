@@ -1,0 +1,16 @@
+
+Profile Report
+GreenLantern
+Profile [168, 165, 333, 112, 72, 12, 0, 1]
+
+
+Columbia University
+SVM prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']
+
+
+University of Rochester
+SVM prediction ['admit']
+Decision Tree Prediction ['admit']
+KNN Prediction ['admit']

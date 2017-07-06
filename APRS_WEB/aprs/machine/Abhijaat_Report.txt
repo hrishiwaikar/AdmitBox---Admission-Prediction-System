@@ -1,0 +1,16 @@
+
+Profile Report
+Abhijaat
+Profile [134, 154, 288, 93, 54, 0, 0, 1]
+
+
+Columbia University
+SVM prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of Rochester
+SVM prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']

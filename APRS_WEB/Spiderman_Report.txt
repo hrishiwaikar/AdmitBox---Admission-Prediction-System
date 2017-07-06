@@ -1,0 +1,16 @@
+
+Profile Report
+Spiderman
+Profile [155, 150, 305, 104, 64, 10, 2, 1]
+
+
+Columbia University
+SVM prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']
+
+
+University of Rochester
+SVM prediction ['reject']
+Decision Tree Prediction ['reject']
+KNN Prediction ['reject']

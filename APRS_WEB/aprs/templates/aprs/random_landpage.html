@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HELLO WORLD!</title>
+    <link rel="stylesheet" href="/static/aprs/css/bootstrap.min.css">
+
+</head>
+
+<style>
+    body{ align:center;
+        background : url("/static/aprs/harvard4.jpg") no-repeat;
+        background-size: cover;
+        opacity:0.90;
+        }
+    form:{vertical-align: middle;}
+</style>
+
+
+
+<body>
+
+ <div class="container ">
+
+     <div class="container">
+        <h1 style="color:white">ADMISSION PREDICTIONS</h1>
+     </div>
+    <br>
+
+     <div class="container jumbotron">
+         <h2>Profile</h2>
+         <h4>Name : {{name}}</h4>
+         <h4>GRE Score : {{total}}</h4>
+         <h4>TOEFL Score: {{toefl}}</h4>
+         <h4>Undergrad Aggregate : {{uAgg}}</h4>
+     </div>
+    <br>
+
+     <div class="container jumbotron">
+         <h2>Prediction Table</h2>
+         <table class="table">
+
+             <tr>
+                <th class="strong">Univeristy</th>
+                <th>SVM Prediction</th>
+                <th>Decision Tree Predicition</th>
+                <th>KNN Prediction</th>
+             </tr>
+             {% for universityinfo in inferencelist%}
+                <tr>
+                <td>{{universityinfo.0}}</td>
+                <td>{{universityinfo.1.0}}</td>
+                <td>{{universityinfo.2.0}}</td>
+                    <td>{{universityinfo.3.0}}</td>
+                </tr>
+             {%endfor%}
+
+         </table>
+
+     </div>
+
+
+ </div>
+
+
+  <div style="height: 400px"></div>
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+
+</body>
+</html>

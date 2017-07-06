@@ -1,0 +1,22 @@
+<html>
+
+<style>
+    body:{ align:center; }
+    form:{vertical-align: middle;}
+</style>
+
+
+<body style="background-color:lavender;" >
+<h1 align="center">HOME PAGE APRS</h1>
+
+<form action="/aprs/landpage/" method="post">
+    {% csrf_token %}<br>
+    First Number &emsp;&emsp14;&emsp14;&emsp14;<input type="text" name="firstnumber" align="center"><br><br>
+    Second Number &emsp;<input type="text" name="secondnumber" align="center"><br>
+    <br>
+    &emsp;&emsp14;<input type="submit" value="Multiply" name="multiplyButton">
+</form>
+
+</body>
+
+</html>
